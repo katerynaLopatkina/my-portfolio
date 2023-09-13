@@ -31,7 +31,7 @@ export function Footer(){
 	</div>
     <div class="by">
 		<div class="fixed-container">
-			<div class="by-info">@ Catherina Lopatkina, 2023</div>
+			<div class="by-info">@ Catherina Lopatkina,2023</div>
 		</div>
 	</div>
     </div>
