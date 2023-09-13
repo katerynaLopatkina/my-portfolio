@@ -1,0 +1,116 @@
+
+.header{
+	height: 700px;
+	background-color: #FBFBFB;
+	padding-top: 40px;
+}
+
+.header-line{
+	display: flex;
+	align-items: center;
+
+}
+
+.nav{
+	font-size: 14px;
+	display: flex;
+	align-items: center;
+}
+
+.nav-mobile{
+	display: none;
+}
+
+.no-style a{
+	color: #1F1F24;
+	text-decoration: none;
+	margin-right: 35px;
+}
+
+.with-style a{
+	color: #FC6589;
+	margin-right: 35px;
+}
+
+.tel a{ 
+	color: #1F1F24;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 16px;
+	margin-left: 250px;
+	margin-right: 40px;
+}
+
+.telegram button{
+	background-color: #FBFBFB;
+	border: 1px solid #FC6589;
+	color: #FC6589;
+	padding: 15px 35px;
+	font-size: 14px;
+
+}
+
+.telegram a{
+	text-decoration: none;	
+}
+
+.telegram a:visited{
+	color: #FC6589;
+}
+
+.txt-information{
+	width: 500px;
+	float: left;
+}
+	.name{
+		font-size: 64px;
+		font-weight: 600;
+		padding-top: 200px;
+		padding-bottom: 25px;
+	}
+
+	.job-name{
+		color: #8B95AE;
+		font-size: 18px;
+		padding-bottom: 50px;
+	}
+	.job-name-mob{
+		display: none;
+	}
+	.more-information button{
+		background-color: #FF4E2E;
+		color: white;
+		padding: 21px 70px;
+		border: none;
+		font-size: 14px;
+
+	}
+	.more-information a:visited, .about-me a:visited{
+	color: white;
+	}
+	.more-information a, .about-me a{
+		text-decoration: none;
+	}
+
+.img-information{
+	width: 500px;
+	float: left;
+}
+	.my-image {
+		position: relative;
+		z-index: 2;
+		left: 50px;
+		top: 70px;
+
+	}	
+	.bg-img{
+		position: absolute;
+		top: 79px;
+		right: -240px;
+		z-index: 1;
+		padding-bottom: 100px;
+
+	}
+	.bg-img img{
+		width: 800px;
+	}

@@ -1,0 +1,70 @@
+
+.footer{
+	padding-top: 80px;
+	height: 160px;
+}
+
+.footer a{
+	color: #97A0B7;
+	text-decoration: none;
+}
+
+.left-footer{
+	float: left;
+	margin-right: 280px;
+	padding-bottom: 80px;
+}
+
+.center-footer{
+	float: left;
+}
+
+.right-footer{
+	float: right;
+}
+
+.nav-footer1,.nav-footer2{
+	padding-bottom: 15px;
+}
+
+.tel-footer, .email-footer{
+	display: flex;
+	text-align: center;
+}
+
+.tel-footer{
+	padding-bottom: 30px;
+}
+
+.img-tel-footer, .img-email-footer{
+	padding-right: 12px;
+}
+
+.button-footer button{
+	background-color: #FBFBFB;
+	border: 1px solid #FC6589;
+	color: #FC6589;
+	padding: 15px 35px;
+	font-size: 14px;
+}
+
+.icons-footer{
+	display: flex;
+	padding-top: 31px;
+}
+
+.facebook-icon{
+	padding-right: 32px;
+}
+
+.by{
+	background-color: #31293C;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.by-info{
+	color: whitesmoke;
+	font-size: 14px;
+	text-align: center;
+}

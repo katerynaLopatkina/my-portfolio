@@ -1,0 +1,31 @@
+.portfolio-slider{
+	margin-bottom: 100px;
+	font-size: 18px;
+	color: #8993AD;
+}
+
+.portfolio-1-img, .portfolio-2-img,.portfolio-3-img{
+	padding-bottom: 40px;
+    width: 100%;
+}
+
+.portfolio-1-img img, .portfolio-2-img img ,.portfolio-3-img img{
+    width: 100%;
+}
+
+.my-portfolio {
+    background-color: #FBFBFB;
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+
+a{
+    text-decoration: none;
+    color: #8993AD;
+  }
+
+  .portfolio-1, .portfolio-2 ,.portfolio-3{
+padding-bottom: 30px;
+text-align: center;
+margin-bottom: 70px;
+}
